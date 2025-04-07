@@ -1,2 +1,14 @@
-# ZiNaPoD-VS
-Virtual Screening of Zimbabwe Natural Products Database (ZiNaPoD) for Glucokinase Activators
+# ZiNaPoD Virtual Screening Project
+
+This repository documents the end-to-end virtual screening workflow of natural compounds from the Zimbabwe Natural Products Database (ZiNaPoD) for potential glucokinase activators.
+
+## Pipeline Overview
+
+1. Pharmacophore Modeling
+2. Virtual Screening
+3. Molecular Docking
+4. ADMET Analysis
+5. Molecular Dynamics Simulations
+
+All results, protocols, and notes are organized in respective folders.
+
