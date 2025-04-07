@@ -4,8 +4,8 @@ This repository documents the end-to-end virtual screening workflow of natural c
 
 ## Pipeline Overview
 
-1. Pharmacophore Modeling
-2. Virtual Screening
+1. Dataset Preparation
+2. Pharmacophore Modeling
 3. Molecular Docking
 4. ADMET Analysis
 5. Molecular Dynamics Simulations
